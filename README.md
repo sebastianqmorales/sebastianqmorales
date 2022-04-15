@@ -1,6 +1,9 @@
 ### Hi there I am Sebastian Morales
 
-- I am currently working on further developing my coursework projects and making flow charts for them
+- I am currently working on:
+  - Creating the Joven Business Consulting page that will be my portfolio
+  - Creating the first iteration of Cuatex that will be a simple blog
+  - Further developing my coursework projects and making flow charts for them
 
 ### Connect with me:
 
