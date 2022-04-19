@@ -1,17 +1,17 @@
-### Hi there I am Sebastian Morales
+## Hi there I am Sebastian Morales
 
-- I am currently working on:
+### I am currently working on:
   - Creating the Joven Business Consulting page that will be my portfolio
   - Creating the first iteration of Cuatex that will be a simple blog
   - Further developing my coursework projects and making flow charts for them
 
-### Connect with me:
+## Connect with me:
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sebastian-q-morales#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sebastian-q-morales#gh-dark-mode-only)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
