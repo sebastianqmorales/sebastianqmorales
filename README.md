@@ -4,6 +4,8 @@
   - Creating the Joven Business Consulting page that will be my portfolio
   - Creating the first iteration of Cuatex that will be a simple blog
   - Further developing my coursework projects and making flow charts for them
+    - Here is a completed project: https://sebastianqmorales.github.io/
+    - To see more details about it go here: https://github.com/sebastianqmorales/sebastianqmorales.github.io
 
 ## Connect with me:
 
