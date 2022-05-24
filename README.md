@@ -1,9 +1,9 @@
-## Hi there I am Sebastian Morales
+## Hi there, I am Sebastian Morales
 
 ### I am currently:
-  - Building WordPress sites for clients 
+  - Building WordPress sites for clients: [recent completed project for a client](https://jonathanalford.com/)
   - Creating the Joven Business Consulting page that will be my portfolio
-  - Creating the first iteration of Cuatex that will be a simple blog
+  - Creating the first iteration of Cuatex that will be a simple blog: [Cuatex](https://cuatex.com/)
   - Further developing my coursework projects and making flow charts for them
 
 ## Connect with me:
