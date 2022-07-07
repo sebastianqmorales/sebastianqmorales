@@ -2,10 +2,11 @@
 
 ### I am currently:
   - Building WordPress sites for clients: [Recent completed project for a client](https://jonathanalford.com/)
+  - Pushing design updates to existing websites: [Design update](https://www.cabearconstruction.com/)
   - Creating the Joven Business Consulting page that will be my portfolio
-  - Creating the first iteration of Cuatex that will be a simple blog: [Cuatex](https://cuatex.com/)
-  - Further developing my coursework projects and making flow charts for them
-
+  - Writing new content for Cuatex blog: [Cuatex](https://cuatex.com/)
+    - Developing Cuatex MVP 
+  - Constantly studying. Current love-stack is: SvelteKit, Vanilla CSS, Node JS, Netlify/ Firebase
 ## Connect with me:
 
 &nbsp;&nbsp;
