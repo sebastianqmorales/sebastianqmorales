@@ -1,8 +1,11 @@
 ## Hi there, I am Sebastian Morales
 
 ### I am currently:
-  - Building WordPress sites for clients: [Recent completed project for a client](https://jonathanalford.com/)
   - Pushing design updates to existing websites: [Design update](https://www.cabearconstruction.com/)
+  - Creating contracts for new web dev clients. Reach out for a quote &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sebastian-q-morales#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sebastian-q-morales#gh-dark-mode-only)
+  - Building WordPress sites for clients: [Recent completed project for a client](https://jonathanalford.com/)
   - Creating the Joven Business Consulting page that will be my portfolio
   - Writing new content for Cuatex blog: [Cuatex](https://cuatex.com/)
     - Developing Cuatex MVP 
