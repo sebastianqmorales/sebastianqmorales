@@ -6,9 +6,9 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sebastian-q-morales#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sebastian-q-morales#gh-dark-mode-only)
   - Creating the Joven Business Consulting page that will be my portfolio
-  - Developing Cuatex MVP and : [Cuatex](https://cuatex.com/)
-    - Iterating landing page 
-  - Constantly studying. Current stack is: SvelteKit, TailwindCSS, Node JS, Netlify/ MongoDB
+  - Developing Cuatex MVP
+    - Iterating landing page: [Cuatex](https://cuatex.com/)
+  - Current stack is: SvelteKit, TailwindCSS, Node JS, Netlify & MongoDB
 ## Connect with me:
 
 &nbsp;&nbsp;
