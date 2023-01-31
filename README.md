@@ -8,7 +8,7 @@
   - Creating the Joven Business Consulting page that will be my portfolio
   - Developing Cuatex MVP
     - Iterating landing page: [Cuatex](https://cuatex.com/)
-  - Current stack is: SvelteKit, TailwindCSS, Node JS, Netlify & MongoDB
+  - Current stack is: SvelteKit, TailwindCSS, Node JS, Netlify & Supabase
 ## Connect with me:
 
 &nbsp;&nbsp;
